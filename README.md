@@ -7,7 +7,7 @@
 [![Next.js 14](https://img.shields.io/badge/Next.js-14-black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](#)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/willnapolini/myshop.github.io&root-directory=apps/admin&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY,SUPABASE_SERVICE_ROLE_KEY,ADMIN_API_KEY,FRONTEND_URL,NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,NEXT_PUBLIC_CLOUDINARY_API_KEY,CLOUDINARY_API_SECRET&envDescription=See%20.env.example%20for%20all%20required%20variables&envLink=https://github.com/willnapolini/myshop.github.io/blob/main/apps/admin/.env.example)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/willnapolinighub/will-napolini-portfolio-dashboard&env=NEXT_PUBLIC_SUPABASE_URL,NEXT_PUBLIC_SUPABASE_ANON_KEY,SUPABASE_SERVICE_ROLE_KEY,ADMIN_API_KEY,FRONTEND_URL,NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,NEXT_PUBLIC_CLOUDINARY_API_KEY,CLOUDINARY_API_SECRET&envDescription=See%20.env.example%20for%20all%20required%20variables&envLink=https://github.com/willnapolinighub/will-napolini-portfolio-dashboard/blob/main/.env.example)
 
 ---
 
