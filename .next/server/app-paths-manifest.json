@@ -1,0 +1,10 @@
+{
+  "/api/chat-config/route": "app/api/chat-config/route.js",
+  "/api/settings/route": "app/api/settings/route.js",
+  "/admin/posts/page": "app/admin/posts/page.js",
+  "/admin/analytics/page": "app/admin/analytics/page.js",
+  "/admin/ai-assistant/page": "app/admin/ai-assistant/page.js",
+  "/admin/subscribers/page": "app/admin/subscribers/page.js",
+  "/admin/products/page": "app/admin/products/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js"
+}
